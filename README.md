@@ -3,8 +3,8 @@
 <h1 align="center">Shruti</h1>
 
 <p align="center">
-  <a href="https://x.com/shruti_dev" target="_blank">x</a> •
   <a href="https://www.linkedin.com/in/shrutidotdev/" target="_blank">linkedin</a> •
+  <a href="https://x.com/shruti_dev" target="_blank">x</a> •
   <a href="mailto:thedeveloper.shruti@gmail.com" target="_blank">email</a>
 </p>
 
